@@ -9,7 +9,8 @@ pwd2 = 234
 pwd3 = 345
 pwd4 = 456
 pwd5 = 567
-for a in range (1000):
+loop = True
+while loop:
     print("1 = Deposit money to an account")
     print("2 = Check balance")
     print("3 = Take Money")
